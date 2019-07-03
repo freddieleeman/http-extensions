@@ -891,3 +891,11 @@ the MICE content coding.
    and adds two more algorithms: ID-SHA-256 and ID-SHA-512 which allows to
    send a checksum of a resource representation with no content codings applied.
 
+# Changes
+
+_RFC Editor: Please remove this section before publication._
+
+
+## Since draft-ietf-httpbis-digest-headers-00
+
+* None yet
